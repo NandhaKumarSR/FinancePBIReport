@@ -1,0 +1,9 @@
+{
+  "version": "4.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../Country Sales.SemanticModel"
+    },
+    "byConnection": null
+  }
+}
